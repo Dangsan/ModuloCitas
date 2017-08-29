@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\tp2\SistemaClinica-master\SistemaClinicas\DAO\bin\Debug\DAO.dll
+C:\Users\Usuario\Documents\tp2\SistemaClinica-master\SistemaClinicas\DAO\bin\Debug\DAO.pdb
+C:\Users\Usuario\Documents\tp2\SistemaClinica-master\SistemaClinicas\DAO\bin\Debug\Entity.dll
+C:\Users\Usuario\Documents\tp2\SistemaClinica-master\SistemaClinicas\DAO\bin\Debug\Entity.pdb
+C:\Users\Usuario\Documents\tp2\SistemaClinica-master\SistemaClinicas\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\tp2\SistemaClinica-master\SistemaClinicas\DAO\obj\Debug\DAO.dll
+C:\Users\Usuario\Documents\tp2\SistemaClinica-master\SistemaClinicas\DAO\obj\Debug\DAO.pdb
+C:\Users\Usuario\Documents\GitHub\SistemaClinicaModuloCitas\SistemaClinicas\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\SistemaClinicaModuloCitas\SistemaClinicas\DAO\obj\Debug\DAO.dll
+C:\Users\Usuario\Documents\GitHub\SistemaClinicaModuloCitas\SistemaClinicas\DAO\obj\Debug\DAO.pdb
+C:\Users\Usuario\Documents\GitHub\SistemaClinicaModuloCitas\SistemaClinicas\DAO\bin\Debug\DAO.dll
+C:\Users\Usuario\Documents\GitHub\SistemaClinicaModuloCitas\SistemaClinicas\DAO\bin\Debug\DAO.pdb
+C:\Users\Usuario\Documents\GitHub\SistemaClinicaModuloCitas\SistemaClinicas\DAO\bin\Debug\Entity.dll
+C:\Users\Usuario\Documents\GitHub\SistemaClinicaModuloCitas\SistemaClinicas\DAO\bin\Debug\Entity.pdb

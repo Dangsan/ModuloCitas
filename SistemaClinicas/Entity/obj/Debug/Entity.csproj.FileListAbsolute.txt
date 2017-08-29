@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\tp2\SistemaClinica-master\SistemaClinicas\Entity\bin\Debug\Entity.dll
+C:\Users\Usuario\Documents\tp2\SistemaClinica-master\SistemaClinicas\Entity\bin\Debug\Entity.pdb
+C:\Users\Usuario\Documents\tp2\SistemaClinica-master\SistemaClinicas\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\tp2\SistemaClinica-master\SistemaClinicas\Entity\obj\Debug\Entity.dll
+C:\Users\Usuario\Documents\tp2\SistemaClinica-master\SistemaClinicas\Entity\obj\Debug\Entity.pdb
+C:\Users\Usuario\Documents\GitHub\SistemaClinicaModuloCitas\SistemaClinicas\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\SistemaClinicaModuloCitas\SistemaClinicas\Entity\obj\Debug\Entity.dll
+C:\Users\Usuario\Documents\GitHub\SistemaClinicaModuloCitas\SistemaClinicas\Entity\obj\Debug\Entity.pdb
+C:\Users\Usuario\Documents\GitHub\SistemaClinicaModuloCitas\SistemaClinicas\Entity\bin\Debug\Entity.dll
+C:\Users\Usuario\Documents\GitHub\SistemaClinicaModuloCitas\SistemaClinicas\Entity\bin\Debug\Entity.pdb
