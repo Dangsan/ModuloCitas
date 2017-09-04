@@ -20,6 +20,15 @@ namespace Entity
 
         public BEPersona()
         {
+            codigo = 0;
+            nombres = "";
+            apellidopaterno = "";
+            apellidomaterno = "";
+            fecha_nacimiento = DateTime.Now;
+            tipo_documento = "";
+            num_documento = "";
+            telefono = "";
+
 
         }
     }

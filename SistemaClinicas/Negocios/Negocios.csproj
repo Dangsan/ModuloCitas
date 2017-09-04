@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BLLista.cs" />
     <Compile Include="BLMEdico.cs" />
     <Compile Include="Exceptions.cs" />
     <Compile Include="BLCitaAdicional.cs" />

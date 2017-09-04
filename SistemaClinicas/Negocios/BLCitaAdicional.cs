@@ -10,6 +10,13 @@ namespace Negocios
 {
     public class BLCitaAdicional : Exceptions
     {
-       
+        DACita dacita = new DACita();
+
+
+        public string[] Graba_CitaAdicional(BECitaAdicional cita)
+        {
+
+            return dacita.Graba_CitaAdicional(cita);
+        }
     }
 }

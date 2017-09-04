@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DACita.cs" />
     <Compile Include="DAMedico.cs" />
     <Compile Include="DALista.cs" />
     <Compile Include="Conexion.cs" />

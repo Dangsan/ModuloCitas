@@ -15,12 +15,12 @@
                             <div class="box-body" id="bbCliente">
                                 <div class="box-group">
                                     <div class="form-group">
-                                        <asp:Label Text="" ID="lblMensaje" runat="server" CssClass="text-green col-sm-12" />
+                                        <asp:Label Text="" ID="lblMensaje" runat="server" CssClass="text-green col-sm-12"  />
                                     </div>
                                     <div class="form-group">
                                         <label class="col-sm-2 control-label">Sede:</label>
-                                        <div class="col-sm-4 control-label">
-                                            <asp:Label name="lblSede" CssClass="form-control" ID="lblSede" runat="server"></asp:Label>
+                                        <div class="col-sm-4">
+                                            <asp:Label name="lblSede" CssClass="form-control" ID="lblSede" runat="server" ></asp:Label>
                                         </div>
                                         <label class="col-sm-2 control-label">Especialidad:</label>
                                         <div class="col-sm-4">
@@ -48,7 +48,7 @@
                                         </div>
                                         <label class="col-sm-2 control-label">Prestación:</label>
                                         <div class="col-sm-4">
-                                            <asp:DropDownList ID="ddlPrestación" CssClass="form-control" AutoPostBack="true" runat="server">
+                                            <asp:DropDownList ID="ddlPrestación" CssClass="form-control" AutoPostBack="false" runat="server">
                                             </asp:DropDownList>
                                         </div>
                                     </div>
@@ -58,7 +58,7 @@
                                     <div class="form-group">
                                         <label class="col-sm-2 control-label">Hora:</label>
                                         <div class="col-sm-4">
-                                            <asp:DropDownList ID="ddlHora" CssClass="form-control" AutoPostBack="true" runat="server">
+                                            <asp:DropDownList ID="ddlHora" CssClass="form-control" AutoPostBack="false" runat="server">
                                             </asp:DropDownList>
                                         </div>
                                         <label class="col-sm-2 control-label">Descripción:</label>
@@ -82,7 +82,7 @@
                                             <asp:Button type="submit" CssClass="btn btn-success" Text="Registrar"
                                                 ID="btnRegistrar" runat="server"
                                                 UseSubmitBehavior="false"
-                                                OnClientClick="validarCitAdic(); return false;" Width="384px" />
+                                                OnClick="btnRegistrar_Click" Width="384px" />
                                         </div>
 
                                     </div>

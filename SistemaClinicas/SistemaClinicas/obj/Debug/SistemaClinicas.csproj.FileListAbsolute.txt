@@ -46,3 +46,15 @@ C:\Users\Usuario\Documents\GitHub\SistemaClinicaModuloCitas\SistemaClinicas\Sist
 C:\Users\Usuario\Documents\GitHub\SistemaClinicaModuloCitas\SistemaClinicas\SistemaClinicas\obj\Debug\SistemaClinicas.csprojResolveAssemblyReference.cache
 C:\Users\Usuario\Documents\GitHub\SistemaClinicaModuloCitas\SistemaClinicas\SistemaClinicas\obj\Debug\ComprobantesRetencion.dll
 C:\Users\Usuario\Documents\GitHub\SistemaClinicaModuloCitas\SistemaClinicas\SistemaClinicas\obj\Debug\ComprobantesRetencion.pdb
+C:\Users\Usuario\Documents\GitHub\ModuloCitas\ModuloCitas\SistemaClinicas\SistemaClinicas\bin\ComprobantesRetencion.dll.config
+C:\Users\Usuario\Documents\GitHub\ModuloCitas\ModuloCitas\SistemaClinicas\SistemaClinicas\bin\ComprobantesRetencion.dll
+C:\Users\Usuario\Documents\GitHub\ModuloCitas\ModuloCitas\SistemaClinicas\SistemaClinicas\bin\ComprobantesRetencion.pdb
+C:\Users\Usuario\Documents\GitHub\ModuloCitas\ModuloCitas\SistemaClinicas\SistemaClinicas\bin\Entity.dll
+C:\Users\Usuario\Documents\GitHub\ModuloCitas\ModuloCitas\SistemaClinicas\SistemaClinicas\bin\Negocios.dll
+C:\Users\Usuario\Documents\GitHub\ModuloCitas\ModuloCitas\SistemaClinicas\SistemaClinicas\bin\DAO.dll
+C:\Users\Usuario\Documents\GitHub\ModuloCitas\ModuloCitas\SistemaClinicas\SistemaClinicas\bin\Entity.pdb
+C:\Users\Usuario\Documents\GitHub\ModuloCitas\ModuloCitas\SistemaClinicas\SistemaClinicas\bin\Negocios.pdb
+C:\Users\Usuario\Documents\GitHub\ModuloCitas\ModuloCitas\SistemaClinicas\SistemaClinicas\bin\DAO.pdb
+C:\Users\Usuario\Documents\GitHub\ModuloCitas\ModuloCitas\SistemaClinicas\SistemaClinicas\obj\Debug\SistemaClinicas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\ModuloCitas\ModuloCitas\SistemaClinicas\SistemaClinicas\obj\Debug\ComprobantesRetencion.dll
+C:\Users\Usuario\Documents\GitHub\ModuloCitas\ModuloCitas\SistemaClinicas\SistemaClinicas\obj\Debug\ComprobantesRetencion.pdb

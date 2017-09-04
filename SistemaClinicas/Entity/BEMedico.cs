@@ -13,10 +13,15 @@ namespace Entity
         public BEPersona persona { get; set; }
         public string colegiatura { get; set; }
         public BELista especialidad { get; set; }
+        public BELista sede { get; set; }
 
         public BEMedico()
         {
-
+            id = 0;
+            colegiatura = "";
+            BELista especialidad = new BELista();
+            BELista sede = new BELista();
+            BEPersona persona = new BEPersona();
         }
     }
 }
