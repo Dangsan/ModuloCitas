@@ -61,6 +61,7 @@
   <ItemGroup>
     <Content Include="CitaAdicional.aspx" />
     <Content Include="IncorporarMedico.aspx" />
+    <Content Include="ReporteTiemposCita.aspx" />
     <Content Include="WebForm1.aspx" />
     <None Include="Properties\PublishProfiles\Desarrollo.pubxml" />
     <Content Include="UIPrincipal.aspx" />
@@ -101,6 +102,13 @@
     </Compile>
     <Compile Include="IncorporarMedico.aspx.designer.cs">
       <DependentUpon>IncorporarMedico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteTiemposCita.aspx.cs">
+      <DependentUpon>ReporteTiemposCita.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReporteTiemposCita.aspx.designer.cs">
+      <DependentUpon>ReporteTiemposCita.aspx</DependentUpon>
     </Compile>
     <Compile Include="UIPrincipal.aspx.cs">
       <DependentUpon>UIPrincipal.aspx</DependentUpon>

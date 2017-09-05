@@ -76,7 +76,9 @@
                                 <div class="box-group">
                                     <div class="form-group">
                                         <label class="col-sm-2 control-label"></label>
-                                        <div class="col-sm-4"></div>
+                                        <div class="col-sm-4">
+                                            <asp:Button ID="printButton" CssClass="btn btn-success" runat="server" Text="Print" OnClientClick="printpage();" />
+                                        </div>
                                         <label class="col-sm-2 control-label"></label>
                                         <div class="col-sm-4">
                                             <asp:Button type="submit" CssClass="btn btn-success" Text="Registrar"
@@ -120,5 +122,47 @@
             return true;
         }
 
+        function printpage() {
+
+            //Get the print button and put it into a variable
+            var printButton = document.getElementById("ContentPlaceHolder1_printButton");
+            var postButton = document.getElementById("ContentPlaceHolder1_btnRegistrar");
+            
+
+            //Set the button visibility to 'hidden' 
+            printButton.style.visibility = 'hidden';
+            postButton.style.visibility = 'hidden';
+            
+
+            //Print the page content
+            window.print()
+
+            //Restore button visibility
+            printButton.style.visibility = 'visible';
+            postButton.style.visibility = 'visible';
+           
+
+        }
+
+
     </script>
+    <style type="text/css" media="print">
+    @page 
+    {
+        size:  auto;   /* auto is the initial value */
+        margin: 0mm;  /* this affects the margin in the printer settings */
+    }
+
+    html
+    {
+        background-color: #FFFFFF; 
+        margin: 0px;  /* this affects the margin on the html before sending to printer */
+    }
+
+    body
+    {
+        border: solid 1px blue ;
+        margin: 10mm 15mm 10mm 15mm; /* margin you want for the content */
+    }
+    </style>
 </asp:Content>

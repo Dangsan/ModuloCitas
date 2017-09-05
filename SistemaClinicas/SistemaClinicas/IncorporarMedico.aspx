@@ -27,30 +27,39 @@
                                             <asp:Button type="submit" CssClass="btn btn-primary" Text="Buscar"
                                                 ID="btnBuscar" runat="server"
                                                 UseSubmitBehavior="false"
-                                                OnClientClick="validarBuscaCMP(); return false;" Width="280px" />
+                                                OnClick="btnBuscarCliente_Click" Width="280px" />
                                         </div>
                                     </div>
 
+                                    <div class="col-sm-4" style="padding-left:200px">
+                                            <asp:Image name="imgMedico" ID="imgMedico" class="img-thumbnail"  runat="server" width="150" height="186" />
+                                        </div>
+
+                                    <div class="col-sm-2">
+                                        </div>
+
                                     <div class="form-group">
+                                                                              
                                         <label class="col-sm-2 control-label">Apellido Paterno:</label>
-                                        <div class="col-sm-4 control-label">
+                                        <div class="col-sm-4 ">
                                             <asp:Label name="lblApPaterno" CssClass="form-control" ID="lblApPaterno" runat="server"></asp:Label>
                                         </div>
+                                        
+                                    </div>
+
+                                    <div class="form-group">
+                                        
+
                                         <label class="col-sm-2 control-label">Apellido Materno:</label>
                                         <div class="col-sm-4">
                                             <asp:Label name="lblApMaterno" CssClass="form-control" ID="lblApMaterno" runat="server"></asp:Label>
                                         </div>
-                                    </div>
 
-                                    <div class="form-group">
                                         <label class="col-sm-2 control-label">Nombres:</label>
-                                        <div class="col-sm-4 control-label">
+                                        <div class="col-sm-4 ">
                                             <asp:Label name="lblNombres" CssClass="form-control" ID="lblNombres" runat="server"></asp:Label>
                                         </div>
-                                        <label class="col-sm-2 control-label">Especialidad:</label>
-                                        <div class="col-sm-4">
-                                            <asp:Label name="lblEspecialidad" CssClass="form-control" ID="lblEspecialidad" runat="server"></asp:Label>
-                                        </div>
+                                       
                                     </div>
 
 
@@ -59,11 +68,15 @@
                                         <div class="col-sm-4 control-label">
                                             <asp:Label name="lblRNE" CssClass="form-control" ID="lblRNE" runat="server"></asp:Label>
                                         </div>
+                                         <label class="col-sm-2 control-label">Especialidad:</label>
+                                        <div class="col-sm-4">
+                                            <asp:Label name="lblEspecialidad" CssClass="form-control" ID="lblEspecialidad" runat="server"></asp:Label>
+                                        </div>
                                     </div>
 
                                     <div class="form-group">
                                         <label class="col-sm-2 control-label">Estado:</label>
-                                        <div class="col-sm-4 control-label">
+                                        <div class="col-sm-4 ">
                                             <asp:Label name="lblEstado" CssClass="form-control" ID="lblEstado" runat="server"></asp:Label>
                                         </div>
                                     </div>

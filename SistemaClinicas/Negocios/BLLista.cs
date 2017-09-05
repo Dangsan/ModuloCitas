@@ -10,7 +10,7 @@ namespace Negocios
 {
     public class BLLista : Exceptions
     {
-        DALista lista = new DALista();
+        DAMaestro lista = new DAMaestro();
 
         public List<BELista> GetListaxId(int id)
         {

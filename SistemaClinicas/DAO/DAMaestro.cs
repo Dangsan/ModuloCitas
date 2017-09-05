@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DAO
 {
-    public class DALista : SqlHelper
+    public class DAMaestro : SqlHelper
     {
         public List<BELista> GetPrestaciones(int id)
         {
